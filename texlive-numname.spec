@@ -48,3 +48,16 @@ that class.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 20100503-2
++ Revision: 754449
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 20100503-1
++ Revision: 719143
+- texlive-numname
+- texlive-numname
+- texlive-numname
+
