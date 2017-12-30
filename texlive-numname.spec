@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-numname
-Version:	20100503
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Convert a number to its English expression
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numname
