@@ -1,6 +1,6 @@
 Name:		texlive-numname
 Version:	18130
-Release:	1
+Release:	2
 Summary:	Convert a number to its English expression
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numname
