@@ -3,7 +3,7 @@ Version:	18130
 Release:	2
 Summary:	Convert a number to its English expression
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numname
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/numname
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numname.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/numname.doc.r%{version}.tar.xz
